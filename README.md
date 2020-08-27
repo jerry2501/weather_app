@@ -1,16 +1,19 @@
 # weather_app
 
-A new Flutter application.
+This app shows details about current weather of the city which user have entered.It is developed using Flutter and OneWeatherMap API.
 
-## Getting Started
+## Snapshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table border=2>
+  <tr>
+    <td> Sample 1</td>
+    <td> Sample 2</td>
+    <td> Error dialog(if wrong city entered)</td>
+    </tr>
+     <tr>
+    <td> <img src="https://user-images.githubusercontent.com/58872762/91434416-69676e00-e882-11ea-937a-55f7354e371b.jpg" height=300></td>
+       <td><img src="https://user-images.githubusercontent.com/58872762/91434418-6a000480-e882-11ea-9884-51940d455281.jpg" height=300></td>
+    <td> <img src="https://user-images.githubusercontent.com/58872762/91434411-68364100-e882-11ea-9fb9-c88242cb994f.jpg" height=300></td>
+    </tr>
+    </table>
+  
